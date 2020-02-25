@@ -1,0 +1,41 @@
+[
+  {
+    "name" : "Himanshu" ,
+    "age" : "24",
+    "height" : "172",
+    "gender" : "Male",
+    "hair_color" : "brown"
+  },
+
+  {
+    "name" : "Ninad" ,
+    "age" : "23",
+    "height" : "172",
+    "gender" : "Male",
+    "hair_color" : "black"
+  },
+
+  {
+    "name" : "Shailesh" ,
+    "age" : "30",
+    "height" : "172",
+    "gender" : "Male",
+    "hair_color" : "white"
+  },
+
+  {
+    "name" : "Tej" ,
+    "age" : "22",
+    "height" : "172",
+    "gender" : "Male",
+    "hair_color" : "Green"
+  },
+
+  {
+    "name" : "Priyanka" ,
+    "age" : "26",
+    "height" : "172",
+    "gender" : "Female",
+    "hair_color" : "Red"
+  }
+]
